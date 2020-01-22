@@ -15,7 +15,7 @@ variable "common_name" {
 
 variable "organization" {
   description = "Organization the TLS certificate"
-  default     = "HashiCorp Demostack"
+  default     = "HashiCorp Multi-Cloud Demostack"
 }
 
 variable "validity_period_hours" {
